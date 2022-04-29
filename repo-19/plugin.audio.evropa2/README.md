@@ -3,7 +3,7 @@
 <p>
 Internetové rádio
 <p>
-<a href="https://r.tapatalk.com/shareLink/topic?url=https%3A%2F%2Fwww%2Exbmc-kodi%2Ecz%2Fshowthread%2Ephp%3Ftid%3D5936&share_tid=5936&share_fid=1387536&share_type=t&link_source=app">Fórum</a>
+<a href="https://www.xbmc-kodi.cz/prispevek-evropa-2-1-1-0">Fórum</a>
 <p>
 <b><a href="https://www.paypal.me/petrsaros">DONATE</a></b>
 <p>
