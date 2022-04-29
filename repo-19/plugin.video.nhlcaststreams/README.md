@@ -19,7 +19,7 @@ Video doplněk pro sledování NHL zápasů (živě, záznam)
 
 <img src="http://saros.wz.cz/repo/plugin.video.nhlcaststreams/scr1.png" style="max-width:50%;">
 
-<img src="http://saros.wz.cz/repo/plugin.video.archivsledovanitv/scr2.png" style="max-width:50%;">
+
 
 
 
