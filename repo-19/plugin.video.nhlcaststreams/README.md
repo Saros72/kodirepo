@@ -9,7 +9,7 @@ Video doplněk pro sledování NHL zápasů (živě, záznam)
 
 <p>
 
-<a href="https://www.xbmc-kodi.cz/showthread.php?tid=4645">Fórum</a>
+<a href="https://www.xbmc-kodi.cz/prispevek-nhl-caststreams">Fórum</a>
 
 <p>
 
