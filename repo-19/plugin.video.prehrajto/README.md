@@ -10,7 +10,7 @@ Vyhledávání, přehrávání, stahování filmů a seriálů ze serveru Přehr
 
 <p>
 
-<a href="https://www.xbmc-kodi.cz/prispevek-nhl-caststreams">Fórum</a>
+<a href="https://www.xbmc-kodi.cz/prispevek-prehraj-to-1-4-0">Fórum</a>
 
 
 
