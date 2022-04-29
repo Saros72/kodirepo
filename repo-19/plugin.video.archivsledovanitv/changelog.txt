@@ -1,0 +1,119 @@
+v1.17.0 (2022-01-21)
+- opravena chyba ve vyhledávání (diakritika)
+
+v1.16.0 (2021-11-07)
+- automatické ukládání do knihovny po uložení pořadu
+- opraven fanart v nfo souboru
+
+v1.15.0 (2021-11-07)
+- možnost přidat uložené pořady do knihovny (kontextové menu)
+
+v1.14.0 (2021-03-16)
+- možnost zvolit mód zobrazení (defaultně "Informace o médiu" pro skin Confluence)
+
+v1.13.0 (2021-03-13)
+- uložené pořady - možnost skrýt nedostupné
+
+v1.12.0 (2021-03-11)
+- zpětné přehrávání pořadu v EPG PVR klienta
+- oprava drobných chyb
+
+v1.11.0 (2021-02-07)
+- kvalita videa rozdělená na úsporná, základní, vysoká
+- volba kodeku h.265/h.264
+- opraveno odebrání seriálu z uložených pořadů
+- možnost vymazat historii vyhledávání
+- optimalizace
+
+v1.10.2 (2021-02-03)
+- možnost stáhnout pořád i z kategorií TV tipy, uložené pořady a historie sledování
+
+v1.10.1 (2021-01-30)
+- možnost odebrat jednotlivý pořád z historie sledování
+
+v1.10.0 (2020-12-31)
+- opraveno přihlášení pokud je v hesle diakritika
+- podpora anglického a slovenského jazyka včetně api
+- možnost vygenerovat playlist s tvg-id pro 365 EPG generator
+- drobné opravy
+
+v1.9.3 (2020-12-23)
+- zobrazení doby trvání pořadu
+- zobrazení využití místa uložených pořadů (informace o videu)
+
+v1.9.2 (2020-12-22)
+- zobrazení pouze dostupných pořadů v kategorii TV tipy
+- opraveno zobrazení titulků (pouze přes InputStream Adaptive)
+
+v1.9.1 (2020-11-29)
+- optimalizace vyhledávání (historie)
+
+v1.9.0 (2020-11-28)
+- historie sledování
+- podpora titulků (pokud jsou k dispozici)
+- zobrazení datumu a času pořadu v přehrávači
+- optimalizace
+
+v1.8.9 (2020-11-23)
+- optimalizace
+
+v1.8.8 (2020-11-11)
+- možnost použít InputStream Adaptive u živého vysílání
+
+v1.8.7 (2020-11-02)
+- přidána funkce historie vyhledávání
+
+v1.8.6 (2020-10-29)
+- možnost přehrát živé vysílání (z kontextového menu)
+
+v1.8.5 (2020-09-27)
+- opraveno stahování
+
+v1.8.4 (2020-09-27)
+- nově TV tipy
+
+v1.8.3 (2020-09-08)
+- plakáty a pozadí u pořadů
+
+v1.8.2 (2020-09-06)
+- dialog stahování na pozadí (volitelně)
+
+v1.8.0 (2020-07-10)
+- možnost stáhnout video z Archivu (MPEG-2 Transport Stream)
+
+v1.7.1 (2020-03-12)
+- odebrána identifikace zařízení jako "Kodi"
+- v nastavení možnost zrušit párování (odebrat zařízení)
+
+v1.7.0  (2020-01-04)
+- přidána MAC adresa jako identifikace zařízení (sériové číslo) při přihlášení/párování
+
+v1.6.0  (2020-01-03)
+- přidáno nové device ID (XBMC) v nastavení
+- pokud dojde k odebrání zařízení, provede se nové přihlášení/párování
+
+v1.5.2 (2019-11-24)
+- kategorie uložené pořady: možnost uložit celý seriál
+
+v1.5.1 (2019-11-13)
+- opraveno přehrávání uložených pořadů
+
+v1.5.0 (2019-09-24)
+- přidán pin (rodičovský zámek) do nastavení
+
+v1.4.1 (2019-05-23)
+- Řazení poradů Nejnovější/Nejstarší (volitelně)
+
+v1.4.0 (2019-04-02)
+- Možnost uložit pořad
+
+v1.3.0 (2019-03-31)
+- Odebráné pořady ze seznamu které nejsou dostupné. Tedy uplynula doba pro zpětné přehrávání (různé u jednotlivých kanálů), nebo pořad ještě nebyl odvysílán. Aktuální pořad je live.
+- Volba loga kanálu - barevné/bílé
+
+v1.1.0 (2019-03-27)
+- Informace o pořadu v kontextovém menu
+- Vyhledávání pořadu
+
+v1.0.0 (2019-03-25)
+- První vydání
