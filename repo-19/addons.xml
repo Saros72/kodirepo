@@ -1,0 +1,315 @@
+﻿<addons>
+    <addon id="plugin.video.archivsledovanitv"
+version="1.17.0"
+name="Archiv SledovaniTV"
+provider-name="Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0" />
+            <import addon="script.module.requests" />
+        </requires>
+	      <extension point="xbmc.python.pluginsource" library="main.py">
+		        <provides>video</provides>
+	      </extension>
+	      <extension point="xbmc.addon.metadata">
+            <summary lang="cs">Archiv SledovaniTV</summary>
+            <description lang="cs">Až 7 dní zpětného sledování televizních pořadů ze serveru SledováníTV (placená služba)</description>
+            <assets>
+                <icon>icon.png</icon>
+            </assets>
+        </extension>
+    </addon>
+    <addon id="script.365.epg.generator"
+       name="365 EPG Generator"
+       version="2.7.0"
+       provider-name="Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0"/>
+            <import addon="script.module.requests" />
+        </requires>
+        <extension point="xbmc.python.script" library="main.py"/>
+        <extension point="xbmc.service" library="service.py"/>
+        <extension point="xbmc.addon.metadata">
+            <description lang="en">XML Generator for EPG.</description>
+            <platform>all</platform>
+            <assets>
+                <icon>icon.png</icon>
+            </assets>
+        </extension>
+    </addon>
+    <addon id="plugin.audio.evropa2" version="1.2.0" name="Evropa 2" provider-name="Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0"/>
+        </requires>
+	       <extension point="xbmc.python.pluginsource" library="default.py">
+            <provides>audio</provides>
+        </extension>
+	       <extension point="xbmc.addon.metadata">
+            <platform>all</platform>
+            <assets>
+                <icon>icon.png</icon>
+                <fanart>fanart.jpg</fanart>
+            </assets>
+        </extension>
+    </addon>
+    <addon id="plugin.video.nhlcaststreams"
+version="0.4.0"
+name="NHL CastStreams"
+provider-name="Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0" />
+            <import addon="script.module.requests" version="2.22.0"/>
+        </requires>
+	      <extension point="xbmc.python.pluginsource" library="main.py">
+		        <provides>video</provides>
+	      </extension>
+	      <extension point="xbmc.addon.metadata">
+            <summary lang="cs">NHL CastStreams</summary>
+            <description lang="cs">Video doplněk pro sledování NHL zápasů (živě, záznam)
+* Vyplňte přihlašovací údaje, které získáte registrací na https://www.caststreams.com/app
+* Pro zobrazení obsahu v HD kvalitě (živě) je potřeba zaplatit darovací poplatek</description>
+            <assets>
+                <icon>icon.jpg</icon>
+            </assets>
+        </extension>
+    </addon>
+    <addon id="skin.confluence.cinema" version="4.7.1" name="Confluence Cinema" provider-name="Jezz_X, Team Kodi, Sároš">
+        <requires>
+		        <import addon="xbmc.gui" version="5.15.0"/>
+		        <import addon="script.favourites" version="7.00.0"/>
+        </requires>
+        <extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
+            <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+        </extension>
+        <extension point="xbmc.addon.metadata">
+		        <summary lang="cs_CZ">Vzhled Confluence od Jezz_X.</summary>
+            <assets>
+                <icon>icon.png</icon>
+            </assets>
+        </extension>
+    </addon>
+    <addon id="plugin.video.prehrajto"
+version="1.4.0"
+name="Přehraj.to"
+provider-name="Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0" />
+            <import addon="script.module.requests" />
+            <import addon="script.module.beautifulsoup4" />
+            <import addon="script.module.pychromecast" />
+        </requires>
+        <extension point="xbmc.python.pluginsource" library="main.py">
+            <provides>video</provides>
+        </extension>
+        <extension point="kodi.context.item">
+            <menu id="kodi.core.main">
+                <item library="dlna.py">
+                    <label>DLNA</label>
+                    <visible>String.StartsWith(ListItem.path,plugin://plugin.video.prehrajto/)+Container.Content(videos)</visible>
+                </item>
+                <item library="cast.py">
+                    <label>Chromecast</label>
+                    <visible>String.StartsWith(ListItem.path,plugin://plugin.video.prehrajto/)+Container.Content(videos)</visible>
+                </item>
+            </menu>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="cs">Přehraj.to</summary>
+            <description lang="cs">Vyhledávání, přehrávání, stahování filmů a seriálů ze serveru Přehraj.to</description>
+            <assets>
+                <icon>icon.png</icon>
+            </assets>
+        </extension>
+    </addon>
+    <addon id="context.video.downloader" name="Video Downloader" version="0.3.0" provider-name="Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0" />
+        </requires>
+        <extension point="kodi.context.item">
+            <menu id="kodi.core.main">
+                <item library="addon.py">
+                    <label>Stáhnout video</label>
+                    <visible>String.StartsWith(ListItem.path,plugin://plugin.video.ivysilani.cz/)|String.IsEqual(ListItem.dbtype,episode)|String.IsEqual(ListItem.dbtype,movie)|Container.Content(movies)|Container.Content(episodes)</visible>
+                </item>
+            </menu>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="en">Download Video from Plugins</summary>
+            <platform>all</platform>
+            <assets>
+                <icon>icon.png</icon>
+            </assets>
+        </extension>
+    </addon>
+    <addon id="context.webshare"
+version="2.5.2"
+name="Webshare"
+provider-name="Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0" />
+            <import addon="script.module.requests" />
+        </requires>
+        <extension point="kodi.context.item">
+            <menu id="kodi.core.main">
+                <item library="default.py">
+                    <label>[COLOR lightskyblue]Webshare[/COLOR]</label>
+                    <visible>String.StartsWith(ListItem.path,plugin://plugin.video.stream-cinema/)+[String.IsEqual(ListItem.dbtype,episode)|String.IsEqual(ListItem.dbtype,movie)|Container.Content(movies)]</visible>
+                </item>
+            </menu>
+        </extension>
+	      <extension point="xbmc.addon.metadata">
+            <summary lang="cs">Webshare</summary>
+            <description lang="cs">Vyhledávání filmů a seriálů na serveru Webshare.cz</description>
+            <assets>
+                <icon>icon.jpg</icon>
+            </assets>
+        </extension>
+    </addon>
+    <addon id="plugin.video.autosalontv"
+version="0.2.0"
+name="Autosalon.TV"
+provider-name="Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0" />
+            <import addon="script.module.requests" />
+            <import addon="script.module.beautifulsoup4" />
+        </requires>
+        <extension point="xbmc.python.pluginsource" library="main.py">
+            <provides>video</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="cs">Autosalon.TV</summary>
+            <description lang="cs">Archiv pořadů ze serveru Autosalon.TV</description>
+            <assets>
+                <icon>icon.jpg</icon>
+            </assets>
+        </extension>
+    </addon>
+    <addon id="plugin.image.ws-private-media" name="Webshare Private Media" version="0.7.0" provider-name="Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0"/>
+            <import addon="script.module.requests"/>
+        </requires>
+        <extension point="xbmc.python.pluginsource" library="main.py">
+            <provides>image audio</provides>
+        </extension>
+        <extension point="xbmc.service" library="service.py" start="login"/>
+        <extension point="xbmc.addon.metadata">
+            <assets>
+                <icon>icon.jpg</icon>
+            </assets>
+        </extension>
+    </addon>
+    <addon id="script.tvgo.playlist" name="TV GO Playlist" provider-name="Sároš" version="1.9.2">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0" />
+            <import addon="script.module.requests" />
+            <import addon="script.module.routing" />
+            <import addon="script.module.m3u8" version="0.5.4+matrix.2" />
+            <import addon="script.module.kodi-six" />
+            <import addon="script.module.pychromecast" />
+        </requires>
+        <extension point="xbmc.python.script" library="default.py"/>
+        <extension point="xbmc.service" library="service.py"/>
+        <extension point="kodi.context.item">
+            <menu id="kodi.core.main">
+                <item library="download.py">
+                    <label>Stáhnout pořad</label>
+                    <visible>Window.IsVisible(tvguide)+ListItem.IsPlayable|Window.IsVisible(pvrosdguide)+ListItem.IsPlayable</visible>
+                </item>
+                <item library="vlc.py">
+                    <label>Externí přehrávač</label>
+                    <visible>System.Platform.Android+Window.isActive(tvchannels)+!Window.IsVisible(pvrosdguide)+!Window.IsVisible(tvguide)|System.Platform.Android+Window.isActive(pvrosdchannels)</visible>
+                </item>
+                <item library="dlna.py">
+                    <label>DLNA</label>
+                    <visible>Window.isActive(tvchannels)+!Window.IsVisible(pvrosdguide)+!Window.IsVisible(tvguide)|Window.isActive(pvrosdchannels)</visible>
+                </item>
+                <item library="chromecast.py">
+                    <label>Chromecast</label>
+                    <visible>Window.isActive(tvchannels)+!Window.IsVisible(pvrosdguide)+!Window.IsVisible(tvguide)|Window.isActive(pvrosdchannels)</visible>
+                </item>
+            </menu>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="cs_CS">Addon na vygenerování playlistu a EPG pro PVR IPTV Simple Clienta od poskytovatele T-Mobile TV GO/Magio GO</summary>
+            <description lang="cs_CS">
+- playlist pro externí přehrávač (přímé streamy)
+- přehrávání live streamu pomocí externího přehrávače (pouze Android)
+- archiv, timeshift
+- loga kanálu v playlistu/EPG
+- barevné žánry
+- auto aktualizace
+- stahování pořadů
+- DLNA, Chromecast (beta)
+            </description>
+            <news>v1.6.0 (12.10.2021)
+- název playlistu a EPG rozdělen na cz a sk
+- automatické nastavení IPTV Simple Clienta
+- stahování pořadu z archivu (pouze m3u8 streamy)
+- Chromecast pro Live stream (beta)
+- opravy a optimalizace
+
+v1.4.2 (10.10.2021)
+- opravy
+
+v1.4.1 (10.10.2021)
+- opravy v žánrech
+
+v1.4.0 (10.10.2021)
+- Inputstrem v playlistu pro externí přehrávač
+- žánry pro Magio Go
+- Eurosport 4K opraven název
+
+v1.3.1 (08.10.2021)
+- barevné žánry v EPG
+
+v1.0.0 (02.10.2021)
+- první vydání
+            </news>
+            <assets>
+                <icon>icon.jpg</icon>
+            </assets>
+        </extension>
+    </addon>
+    <addon id="script.module.pychromecast" name="pychromecast" version="9.2.1" provider-name="Paulus Schoutsen">
+      <requires>
+          <import addon="xbmc.python" version="3.0.0"/>
+      </requires>
+      <extension point="xbmc.python.module" library="lib" />
+      <extension point="xbmc.addon.metadata">
+          <platform>all</platform>
+          <source>http://saros.wz.cz/repo/repo-v19/script.module.pychromecast</source>
+      </extension>
+    </addon>
+    <addon id="service.simple.http.server" name="Simple HTTP Server" version="1.2.1" provider-name="bones7456, Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0"/>
+        </requires>
+        <extension point="xbmc.service" library="service.py">
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="cs_CS">Simple HTTP Server</summary>
+            <description lang="cs_CS">Jednoduchý HTTP server s nahráváním souborů</description>
+            <platform>all</platform>
+            <news>v1.0.0 (06.10.2021)
+- první vydání
+            </news>
+            <assets>
+		    	        <icon>icon.png</icon>
+            </assets>
+        </extension>
+    </addon>
+    <addon id="script.tv.channel.switch" name="TV Channel Switch" version="0.1.0" provider-name="Sároš">
+	    <requires>
+		    <import addon="xbmc.python" version="3.0.0"/>
+	    </requires>
+	    <extension point="xbmc.python.script" library="default.py"/>
+	    <extension point="xbmc.addon.metadata">
+		    <summary lang="cs_CZ">Přepni TV kanál</summary>
+		    <description lang="cs_CZ">Tento dopněk slouží k přepínání TV kanálů a je především vhodný pro zařízení s dálkovým ovladačem bez numerické klávesnice. Po vhodném namapování tlačítka dálkového ovladače a spuštění doplňku se vyvolá dialog pro zadání čísla nebo názvu kanálu. U zařízení s OS Android TV je možné zadávat i hlasem.</description>
+		    <assets>
+			    <icon>icon.jpg</icon>
+		    </assets>
+	    </extension>
+    </addon>
+</addons>
