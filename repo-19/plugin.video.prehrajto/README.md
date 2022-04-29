@@ -15,7 +15,7 @@ Vyhledávání, přehrávání, stahování filmů a seriálů ze serveru Přehr
 
 
 
-
+<b><a href="https://www.paypal.me/petrsaros">DONATE</a></b>
 
 
 
