@@ -8,10 +8,10 @@ Doplněk pro vygenerování XML souboru pro EPG
 
 <a href="https://www.xbmc-kodi.cz/showthread.php?pid=84767#pid84767">Forum</a>
 
-<img src="http://saros.wz.cz/repo/plugin.video.archivsledovanitv/scr1.png" style="max-width:50%;">
+<img src="https://raw.githubusercontent.com/Saros72/kodirepo/main/repo-19/script.365.epg.generator/scr1.png" style="max-width:50%;">
 
-<img src="http://saros.wz.cz/repo/plugin.video.archivsledovanitv/scr2.png" style="max-width:50%;">
+<img src="https://raw.githubusercontent.com/Saros72/kodirepo/main/repo-19/script.365.epg.generator/scr2.png" style="max-width:50%;">
 
-<img src="http://saros.wz.cz/repo/plugin.video.archivsledovanitv/scr3.png" style="max-width:50%;">
+<img src="https://raw.githubusercontent.com/Saros72/kodirepo/main/repo-19/script.365.epg.generator/scr3.png" style="max-width:50%;">
 
 </p>
