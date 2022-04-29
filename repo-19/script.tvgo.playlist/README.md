@@ -6,7 +6,7 @@ Playlist pro PVR IPTV Simple Clienta (T-mobile/Magio GO)
 
 <p>
 
-<a href="https://www.xbmc-kodi.cz/prispevek-evropa-2-1-1-0">Fórum</a>
+<a href="https://www.xbmc-kodi.cz/prispevek-tv-go-playlist-v1-9-2">Fórum</a>
 
 <p>
 
