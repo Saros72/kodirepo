@@ -3,7 +3,9 @@
 
 <p>
 
-Až 7 dní zpětného sledování televizních pořadů ze serveru SledováníTV (placená služba)
+Video doplněk pro sledování NHL zápasů (živě, záznam)
+* V nastavení doplňku zadejte přihlašovací údaje, které získáte registrací na https://www.caststreams.com/app
+* Pro zobrazení obsahu v HD kvalitě (živě) je potřeba zaplatit darovací poplatek
 
 <p>
 
@@ -15,11 +17,11 @@ Až 7 dní zpětného sledování televizních pořadů ze serveru SledováníTV
 
 <p>
 
-<img src="http://saros.wz.cz/repo/plugin.video.archivsledovanitv/scr1.png" style="max-width:50%;">
+<img src="http://saros.wz.cz/repo/plugin.video.nhlcaststreams/scr1.png" style="max-width:50%;">
 
 <img src="http://saros.wz.cz/repo/plugin.video.archivsledovanitv/scr2.png" style="max-width:50%;">
 
-<img src="http://saros.wz.cz/repo/plugin.video.archivsledovanitv/scr3.png" style="max-width:50%;">
+
 
 </p>
 
