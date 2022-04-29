@@ -1,1 +1,1 @@
-# repo-v19
+Repozitář doplňků pro Kodi
