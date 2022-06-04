@@ -1,3 +1,6 @@
+v1.18.0 (04.06.2022)
+- opraveno přehrávání kanálů skupiny FTV Prima
+
 v1.17.0 (2022-01-21)
 - opravena chyba ve vyhledávání (diakritika)
 
