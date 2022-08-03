@@ -20,7 +20,7 @@ provider-name="Sároš">
     </addon>
     <addon id="script.365.epg.generator"
        name="365 EPG Generator"
-       version="2.13.0"
+       version="2.14.0"
        provider-name="Sároš">
         <requires>
             <import addon="xbmc.python" version="3.0.0"/>
