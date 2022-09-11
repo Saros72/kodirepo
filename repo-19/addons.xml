@@ -20,12 +20,13 @@ provider-name="Sároš">
     </addon>
     <addon id="script.365.epg.generator"
        name="365 EPG Generator"
-       version="2.16.0"
+       version="2.16.1"
        provider-name="Sároš">
         <requires>
             <import addon="xbmc.python" version="3.0.0"/>
             <import addon="script.module.requests" />
             <import addon="script.module.m3u8" />
+            <import addon="script.module.beautifulsoup4" />
         </requires>
         <extension point="xbmc.python.script" library="main.py"/>
         <extension point="xbmc.service" library="service.py"/>
