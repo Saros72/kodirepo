@@ -1,6 +1,6 @@
 ﻿<addons>
     <addon id="plugin.video.archivsledovanitv"
-version="1.20.1"
+version="1.21.0"
 name="Archiv SledovaniTV"
 provider-name="Sároš">
         <requires>
