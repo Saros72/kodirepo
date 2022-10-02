@@ -167,20 +167,21 @@ provider-name="Sároš">
         </extension>
     </addon>
     <addon id="plugin.video.autosalontv"
-version="0.4.0"
-name="Autosalon.TV"
+version="0.5.0"
+name="Autosalon"
 provider-name="Sároš">
         <requires>
             <import addon="xbmc.python" version="3.0.0" />
             <import addon="script.module.requests" />
             <import addon="script.module.beautifulsoup4" />
+            <import addon="script.module.simplejson" />
         </requires>
         <extension point="xbmc.python.pluginsource" library="main.py">
             <provides>video</provides>
         </extension>
         <extension point="xbmc.addon.metadata">
-            <summary lang="cs">Autosalon.TV</summary>
-            <description lang="cs">Archiv pořadů ze serveru Autosalon.TV</description>
+            <summary lang="cs">Autosalon</summary>
+            <description lang="cs">Archiv pořadů ze serveru Autosalon.TV a Autosalón.sk</description>
             <assets>
                 <icon>icon.jpg</icon>
             </assets>
