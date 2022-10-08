@@ -167,7 +167,7 @@ provider-name="Sároš">
         </extension>
     </addon>
     <addon id="plugin.video.autosalontv"
-version="0.6.0"
+version="0.7.0"
 name="Autosalon"
 provider-name="Sároš">
         <requires>
