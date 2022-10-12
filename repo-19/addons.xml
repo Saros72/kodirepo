@@ -202,7 +202,7 @@ provider-name="Sároš">
             </assets>
         </extension>
     </addon>
-    <addon id="script.tvgo.playlist" name="TV GO Playlist" provider-name="Sároš" version="1.13.0">
+    <addon id="script.tvgo.playlist" name="TV GO Playlist" provider-name="Sároš" version="1.14.0">
         <requires>
             <import addon="xbmc.python" version="3.0.0" />
             <import addon="script.module.requests" />
