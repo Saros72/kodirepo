@@ -371,4 +371,25 @@ provider-name="Sároš">
             </assets>
         </extension>
     </addon>
+    <addon id="plugin.video.archivpodatv"
+version="1.21.0"
+name="Archiv PODA.tv"
+provider-name="Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0" />
+            <import addon="script.module.requests" />
+        </requires>
+        <extension point="xbmc.python.pluginsource" library="main.py">
+            <provides>video</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary lang="cs">Archiv PODA.tv</summary>
+            <summary lang="en">Archiv PODA.tv</summary>
+            <description lang="cs">Až 7 dní zpětného sledování televizních pořadů ze serveru PODA.tv (placená služba)</description>
+            <description lang="en">Up to 7 days of watching TV programs back from the PODA.tv server (paid service)</description>
+            <assets>
+                <icon>icon.png</icon>
+            </assets>
+        </extension>
+    </addon>
 </addons>
