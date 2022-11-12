@@ -392,4 +392,30 @@ provider-name="Sároš">
             </assets>
         </extension>
     </addon>
+    <addon id="service.iptv.web.server" name="IPTV Web Server" version="1.0.0" provider-name="Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0"/>
+            <import addon="script.module.requests" />
+            <import addon="script.module.pycryptodome" />
+            <import addon="script.module.bottle" />
+            <import addon="script.module.routing" />
+        </requires>
+        <extension point="xbmc.service" library="service.py">
+        </extension>
+        <extension point="xbmc.python.pluginsource" library="main.py">
+            <provides/>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <platform>all</platform>
+            <summary lang="cs_CS">IPTV Web Server</summary>
+            <description lang="cs_CS">Tento doplněk vám pomocí webového serveru zpřístupní cestu k vaším streamům v rámci lokální sítě.
+
+Podporované poskytovatelé internetové televize:
+O2TV, T-mobile TV GO, SledovaniTV.cz, Telly, Magio GO, SledovanieTV.sk, REBIT.tv, Antik TV
+            </description>
+            <assets>
+		    	        <icon>icon.png</icon>
+            </assets>
+        </extension>
+    </addon>
 </addons>
