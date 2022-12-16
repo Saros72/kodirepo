@@ -1,6 +1,6 @@
 ﻿<addons>
     <addon id="plugin.video.archivsledovanitv"
-version="1.22.0"
+version="1.23.0"
 name="Archiv SledovaniTV"
 provider-name="Sároš">
         <requires>
@@ -372,7 +372,7 @@ provider-name="Sároš">
         </extension>
     </addon>
     <addon id="plugin.video.archivpodatv"
-version="1.22.0"
+version="1.23.0"
 name="Archiv PODA.tv"
 provider-name="Sároš">
         <requires>
