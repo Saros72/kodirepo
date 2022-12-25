@@ -103,6 +103,14 @@
         "name": "Barrandov Krimi",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BDSQKIAK/741-barrandov-krimi-hd.png"
     },
+    "1242": {
+        "name": "Eurosport 1",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDNASIAK/1242-eurosport-1-hd.png"
+    },
+    "1246": {
+        "name": "Eurosport 2",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDPASIAK/1246-eurosport-2-hd.png"
+    },
     "985": {
         "name": "Sport 1",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BDMQOIAK/985-sport-1-hd.png"
@@ -155,6 +163,10 @@
         "name": "Disney Junior",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BCQAMIAK/800-disney-junior.png"
     },
+    "1238": {
+        "name": "Boomerang",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDLASIAK/1238-boomerang-hd.png"
+    },
     "797": {
         "name": "Baby TV",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BCOQMIAK/797-baby-tv.png"
@@ -175,6 +187,14 @@
         "name": "National Geographic Wild",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BCSAMIAK/804-national-geographic-wild-hd.png"
     },
+    "1240": {
+        "name": "Animal Planet",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDMASIAK/1240-animal-planet-hd.png"
+    },
+    "1245": {
+        "name": "Discovery Channel",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDOQSIAK/1245-discovery-channel-hd.png"
+    },
     "974": {
         "name": "Spektrum",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BDHAOIAK/974-spektrum-hd.png"
@@ -182,6 +202,34 @@
     "977": {
         "name": "Spektrum Home",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BDIQOIAK/977-spektrum-home.png"
+    },
+    "1241": {
+        "name": "Discovery Science",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDMQSIAK/1241-discovery-science-hd.png"
+    },
+    "1233": {
+        "name": "TLC Balkans",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDIQSIAK/1233-tlc-balkans-hd.png"
+    },
+    "1229": {
+        "name": "DTX",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDGQSIAK/1229-dtx.png"
+    },
+    "1234": {
+        "name": "ID Xtra",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDJASIAK/1234-id-xtra-hd.png"
+    },
+    "1243": {
+        "name": "Travel channel",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDNQSIAK/1243-travel-channel-hd.png"
+    },
+    "1235": {
+        "name": "HGTV",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDJQSIAK/1235-hgtv.png"
+    },
+    "1244": {
+        "name": "Food Network",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDOASIAK/1244-food-network-hd.png"
     },
     "975": {
         "name": "Paprika TV",
@@ -519,6 +567,10 @@
         "name": "Biznes24",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BCUQSIAK/1193-biznes24-hd.png"
     },
+    "1263": {
+        "name": "News24",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDXQSIAK/1263-news24-hd.png"
+    },
     "1118": {
         "name": "Eleven Sports 1 4K",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BDPAQIAK/1118-eleven-sports-1-4k.png"
@@ -750,6 +802,10 @@
     "1206": {
         "name": "MTV 00s",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BC3ASIAK/1206-mtv-00s.png"
+    },
+    "1203": {
+        "name": "Club MTV",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BCZQSIAK/1203-club-mtv.png"
     },
     "1204": {
         "name": "MTV Hits",
