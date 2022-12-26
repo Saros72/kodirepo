@@ -599,6 +599,11 @@
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BC5AOIAK/954-doma-hd.png",
         "group": "N\u00e1rodn\u00ed"
     },
+    "953": {
+        "name": "Mark\u00edza KRIMI",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BC4QOIAK/953-markiza-krimi-hd.png",
+        "group": "N\u00e1rodn\u00ed"
+    },
     "955": {
         "name": "Dajto",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BC5QOIAK/955-dajto-hd.png",
@@ -607,6 +612,11 @@
     "814": {
         "name": "JOJ",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BCXAMIAK/814-joj-hd.png",
+        "group": "N\u00e1rodn\u00ed"
+    },
+    "816": {
+        "name": "JOJ PLUS",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BCYAMIAK/816-joj-plus-hd.png",
         "group": "N\u00e1rodn\u00ed"
     },
     "818": {
@@ -619,15 +629,45 @@
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BCXQMIAK/815-jojko-hd.png",
         "group": "D\u011btsk\u00e9"
     },
+    "961": {
+        "name": "JOJ 24",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDAQOIAK/961-joj-24-hd.png",
+        "group": "Zpravodajsk\u00e9"
+    },
     "849": {
         "name": ":24",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BDIQMIAK/849-24.png",
         "group": "N\u00e1rodn\u00ed"
     },
+    "1": {
+        "name": "Nova International",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BAASACQ=/1-nova-international-hd.png",
+        "group": "N\u00e1rodn\u00ed"
+    },
+    "755": {
+        "name": "Prima Plus",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDZQKIAK/755-prima-plus-hd.png",
+        "group": "Filmov\u00e9"
+    },
+    "817": {
+        "name": "JOJ \u0160port",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BCYQMIAK/817-joj-sport-hd.png",
+        "group": "Sportovn\u00ed"
+    },
+    "1237": {
+        "name": "Eurosport 2 ",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDKQSIAK/1237-eurosport-2-hd.png",
+        "group": "Sportovn\u00ed"
+    },
     "827": {
         "name": "Body in Balance",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BC5QMIAK/827-body-in-balance.png",
         "group": "Sportovn\u00ed"
+    },
+    "913": {
+        "name": "Prima Zoom",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BCIQOIAK/913-prima-zoom-hd.png",
+        "group": "Dokument\u00e1rn\u00ed"
     },
     "762": {
         "name": "English Club TV",
@@ -653,6 +693,11 @@
         "name": "STORY4",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BCVQMIAK/811-story4.png",
         "group": "Filmov\u00e9"
+    },
+    "1098": {
+        "name": "Blue Hustler",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDFAQIAK/1098-blue-hustler.png",
+        "group": "18+"
     },
     "796": {
         "name": "BabesTV",
@@ -702,6 +747,11 @@
     "1191": {
         "name": "TVN24",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BCTQSIAK/1191-tvn24-hd.png",
+        "group": "Zpravodajsk\u00e9"
+    },
+    "1192": {
+        "name": "TVN24 BiS",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BCUASIAK/1192-tvn24-bis-hd.png",
         "group": "Zpravodajsk\u00e9"
     },
     "1193": {
@@ -784,6 +834,11 @@
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BC7QQIAK/1087-duck-tv-hd.png",
         "group": "D\u011btsk\u00e9"
     },
+    "1086": {
+        "name": "Duck TV Plus",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BC7AQIAK/1086-duck-tv-plus-hd.png",
+        "group": "D\u011btsk\u00e9"
+    },
     "1085": {
         "name": "Top Kids",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BC6QQIAK/1085-top-kids-hd.png",
@@ -807,6 +862,11 @@
     "1198": {
         "name": "Comedy Central",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BCXASIAK/1198-comedy-central-hd.png",
+        "group": "Filmov\u00e9"
+    },
+    "1197": {
+        "name": "Polsat Comedy Central Extra",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BCWQSIAK/1197-polsat-comedy-central-extra-hd.png",
         "group": "Filmov\u00e9"
     },
     "1199": {
@@ -854,6 +914,11 @@
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BD7AOIAK/1022-filmbox-arthouse-hd.png",
         "group": "Filmov\u00e9"
     },
+    "1196": {
+        "name": "AXN Spin",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BCWASIAK/1196-axn-spin.png",
+        "group": "Filmov\u00e9"
+    },
     "1052": {
         "name": "BBC First",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BCOAQIAK/1052-bbc-first-hd.png",
@@ -884,6 +949,11 @@
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BC5AQIAK/1082-filmax-hd.png",
         "group": "Filmov\u00e9"
     },
+    "1088": {
+        "name": "FILMAX 4K",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BDAAQIAK/1088-filmax-4k.png",
+        "group": "Filmov\u00e9"
+    },
     "1015": {
         "name": "Red TOP TV",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BD3QOIAK/1015-red-top-tv-hd.png",
@@ -902,6 +972,21 @@
     "992": {
         "name": "HISTORY 2",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BDQAOIAK/992-history-2.png",
+        "group": "Dokument\u00e1rn\u00ed"
+    },
+    "1044": {
+        "name": "Polsat Viasat History",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BCKAQIAK/1044-polsat-viasat-history-hd.png",
+        "group": "Dokument\u00e1rn\u00ed"
+    },
+    "1046": {
+        "name": "Polsat Viasat Explore",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BCLAQIAK/1046-polsat-viasat-explore-hd.png",
+        "group": "Dokument\u00e1rn\u00ed"
+    },
+    "1024": {
+        "name": "Polsat Viasat Nature",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BCAAQIAK/1024-polsat-viasat-nature-hd.png",
         "group": "Dokument\u00e1rn\u00ed"
     },
     "1006": {
@@ -1017,6 +1102,11 @@
     "1018": {
         "name": "Stars.TV",
         "logo": "http://static.sweet.tv/images/cache/channel_icons/BD5AOIAK/1018-stars-tv-hd.png",
+        "group": "Hudebn\u00ed"
+    },
+    "1045": {
+        "name": "Kino Polska Muzyka",
+        "logo": "http://static.sweet.tv/images/cache/channel_icons/BCKQQIAK/1045-kino-polska-muzyka.png",
         "group": "Hudebn\u00ed"
     },
     "1091": {
