@@ -203,14 +203,13 @@ provider-name="Sároš">
             </assets>
         </extension>
     </addon>
-    <addon id="script.tvgo.playlist" name="TV GO Playlist" provider-name="Sároš" version="1.16.4">
+    <addon id="script.tvgo.playlist" name="TV GO Playlist" provider-name="Sároš" version="1.17.0">
         <requires>
             <import addon="xbmc.python" version="3.0.0" />
             <import addon="script.module.requests" />
             <import addon="script.module.routing" />
             <import addon="script.module.m3u8" version="0.5.4+matrix.2" />
             <import addon="script.module.kodi-six" />
-            <import addon="script.module.pychromecast" />
             <import addon="plugin.tvgo.sort.channels" />
         </requires>
         <extension point="xbmc.python.script" library="default.py"/>
@@ -219,58 +218,12 @@ provider-name="Sároš">
             <menu id="kodi.core.main">
                 <item library="download.py">
                     <label>Stáhnout pořad</label>
-                    <visible>Window.IsVisible(tvguide)+ListItem.IsPlayable|Window.IsVisible(pvrosdguide)+ListItem.IsPlayable</visible>
-                </item>
-                <item library="vlc.py">
-                    <label>Externí přehrávač</label>
-                    <visible>System.Platform.Android+Window.isActive(tvchannels)+!Window.IsVisible(pvrosdguide)+!Window.IsVisible(tvguide)|System.Platform.Android+Window.isActive(pvrosdchannels)</visible>
-                </item>
-                <item library="dlna.py">
-                    <label>DLNA</label>
-                    <visible>Window.isActive(tvchannels)+!Window.IsVisible(pvrosdguide)+!Window.IsVisible(tvguide)|Window.isActive(pvrosdchannels)</visible>
-                </item>
-                <item library="chromecast.py">
-                    <label>Chromecast</label>
-                    <visible>Window.isActive(tvchannels)+!Window.IsVisible(pvrosdguide)+!Window.IsVisible(tvguide)|Window.isActive(pvrosdchannels)</visible>
+                    <visible>[Addon.SettingBool(script.tvgo.playlist, enable_download)| String.StartsWith(System.BuildVersionShort, 19)]+Window.IsVisible(tvguide)+ListItem.IsPlayable|Window.IsVisible(pvrosdguide)+ListItem.IsPlayable</visible>
                 </item>
             </menu>
         </extension>
         <extension point="xbmc.addon.metadata">
             <summary lang="cs_CS">Addon na vygenerování playlistu a EPG pro PVR IPTV Simple Clienta od poskytovatele T-Mobile TV GO/Magio GO</summary>
-            <description lang="cs_CS">
-- playlist pro externí přehrávač (přímé streamy)
-- přehrávání live streamu pomocí externího přehrávače (pouze Android)
-- archiv, timeshift
-- loga kanálu v playlistu/EPG
-- barevné žánry
-- auto aktualizace
-- stahování pořadů
-- DLNA, Chromecast (beta)
-            </description>
-            <news>v1.6.0 (12.10.2021)
-- název playlistu a EPG rozdělen na cz a sk
-- automatické nastavení IPTV Simple Clienta
-- stahování pořadu z archivu (pouze m3u8 streamy)
-- Chromecast pro Live stream (beta)
-- opravy a optimalizace
-
-v1.4.2 (10.10.2021)
-- opravy
-
-v1.4.1 (10.10.2021)
-- opravy v žánrech
-
-v1.4.0 (10.10.2021)
-- Inputstrem v playlistu pro externí přehrávač
-- žánry pro Magio Go
-- Eurosport 4K opraven název
-
-v1.3.1 (08.10.2021)
-- barevné žánry v EPG
-
-v1.0.0 (02.10.2021)
-- první vydání
-            </news>
             <assets>
                 <icon>icon.png</icon>
             </assets>
