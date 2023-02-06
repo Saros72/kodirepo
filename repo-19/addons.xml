@@ -90,30 +90,17 @@ provider-name="Sároš">
         </extension>
     </addon>
     <addon id="plugin.video.prehrajto"
-version="1.5.0"
+version="1.6.0"
 name="Přehraj.to"
 provider-name="Sároš">
         <requires>
             <import addon="xbmc.python" version="3.0.0" />
-            <import addon="script.module.requests" />
-            <import addon="script.module.beautifulsoup4" />
-            <import addon="script.module.pychromecast" />
+            <import addon="script.module.requests" version="2.22.0"/>
+            <import addon="script.module.beautifulsoup4" version="4.6.2"/>
         </requires>
         <extension point="xbmc.python.pluginsource" library="main.py">
             <provides>video</provides>
-        </extension>
-        <extension point="kodi.context.item">
-            <menu id="kodi.core.main">
-                <item library="dlna.py">
-                    <label>DLNA</label>
-                    <visible>String.StartsWith(ListItem.path,plugin://plugin.video.prehrajto/)+Container.Content(videos)</visible>
-                </item>
-                <item library="cast.py">
-                    <label>Chromecast</label>
-                    <visible>String.StartsWith(ListItem.path,plugin://plugin.video.prehrajto/)+Container.Content(videos)</visible>
-                </item>
-            </menu>
-        </extension>
+        </extension>
         <extension point="xbmc.addon.metadata">
             <summary lang="cs">Přehraj.to</summary>
             <description lang="cs">Vyhledávání, přehrávání, stahování filmů a seriálů ze serveru Přehraj.to</description>
