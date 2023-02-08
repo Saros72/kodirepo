@@ -1,0 +1,237 @@
+#EXTM3U
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDTQKIAK/743-ct1-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="2-ct1",ČT1
+http://localhost:8888/sweet/743.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD5QGIAK/507-nova-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1-nova",Nova
+http://localhost:8888/sweet/507.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDXQKIAK/751-prima-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="4-prima",Prima
+http://localhost:8888/sweet/751.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD5AGIAK/506-nova-cinema-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="132-nova-cinema",Nova Cinema
+http://localhost:8888/sweet/506.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD4QGIAK/505-nova-fun-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="707-nova-fun",Nova Fun
+http://localhost:8888/sweet/505.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCDAIIAK/518-nova-action-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="677-nova-action",Nova Action
+http://localhost:8888/sweet/518.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BABCACQ=/2-nova-gold-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="712-nova-gold",Nova Gold
+http://localhost:8888/sweet/2.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD6QGIAK/509-nova-lady-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="15290-nova-lady",Nova Lady
+http://localhost:8888/sweet/509.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDUAKIAK/744-ct2-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="3-ct2",ČT2
+http://localhost:8888/sweet/744.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD4AKIAK/760-tv-barrandov-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="215-barrandov",TV Barrandov
+http://localhost:8888/sweet/760.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC7QMIAK/831-ct-sport-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="73-ct4-sport",ČT sport
+http://localhost:8888/sweet/831.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCAQIIAK/513-nova-sport-1-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="205-nova-sport-1",Nova Sport 1
+http://localhost:8888/sweet/513.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BABSACQ=/3-nova-sport-2-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1038-nova-sport-2",Nova Sport 2
+http://localhost:8888/sweet/3.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDUQKIAK/745-ct24-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="65-ct24",ČT24
+http://localhost:8888/sweet/745.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDXAKIAK/750-prima-cool-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="220-prima-cool",Prima COOL
+http://localhost:8888/sweet/750.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC7AMIAK/830-ct-d.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="805-ct-:d",ČT :D
+http://localhost:8888/sweet/830.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDGAMIAK/844-ct-art-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="805-ct-:d",ČT art
+http://localhost:8888/sweet/844.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDYQKIAK/753-prima-love-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="496-prima-love",Prima LOVE
+http://localhost:8888/sweet/753.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD2QKIAK/757-prima-zoom-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="708-prima-zoom",Prima ZOOM
+http://localhost:8888/sweet/757.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDZAKIAK/754-prima-max-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1122-prima-max",Prima MAX
+http://localhost:8888/sweet/754.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDYAKIAK/752-prima-krimi-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1196-prima-krimi",Prima Krimi
+http://localhost:8888/sweet/752.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD2AKIAK/756-prima-star-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1513-prima-star",Prima Star
+http://localhost:8888/sweet/756.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDTAKIAK/742-cnn-prima-news-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1338-cnn-prima-news",CNN Prima News
+http://localhost:8888/sweet/742.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDWQKIAK/749-kino-barrandov-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1018-kino-barrandov",Kino Barrandov
+http://localhost:8888/sweet/749.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDSQKIAK/741-barrandov-krimi-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1020-barrandov-krimi",Barrandov Krimi
+http://localhost:8888/sweet/741.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDNASIAK/1242-eurosport-1-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="9-eurosport-1",Eurosport 1
+http://localhost:8888/sweet/1242.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDPASIAK/1246-eurosport-2-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="59-eurosport-2",Eurosport 2
+http://localhost:8888/sweet/1246.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDMQOIAK/985-sport-1-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="75-sport1",Sport 1
+http://localhost:8888/sweet/985.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDNAOIAK/986-sport-2-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="221-sport2",Sport 2
+http://localhost:8888/sweet/986.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDBAMIAK/834-arena-sport-1-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="687-arena-sport-1",Arena Sport 1
+http://localhost:8888/sweet/834.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDBQMIAK/835-arena-sport-2-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="800-arena-sport-2",Arena Sport 2
+http://localhost:8888/sweet/835.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDFQMIAK/843-sport-5-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="197-sport-5",Sport 5
+http://localhost:8888/sweet/843.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDCAMIAK/836-auto-motor-und-sport-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="704-auto-motor-sport",Auto Motor und Sport
+http://localhost:8888/sweet/836.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC6QMIAK/829-volant-tv.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="15403-volant.tv",VOLANT.TV
+http://localhost:8888/sweet/829.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDCQMIAK/837-golf-channel-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="127-golf-channel",Golf channel
+http://localhost:8888/sweet/837.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCEQIIAK/521-cars-stars-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Cars & Stars
+http://localhost:8888/sweet/521.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDKQKIAK/725-rik-tv-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1408-rik-tv",Rik TV
+http://localhost:8888/sweet/725.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCVAMIAK/810-lala-tv.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1245-lala-tv",LALA TV
+http://localhost:8888/sweet/810.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCPQMIAK/799-disney-channel.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="228-disney-channel",Disney Channel
+http://localhost:8888/sweet/799.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCQAMIAK/800-disney-junior.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="567-disney-junior",Disney Junior
+http://localhost:8888/sweet/800.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDLASIAK/1238-boomerang-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="64-boomerang",Boomerang
+http://localhost:8888/sweet/1238.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCOQMIAK/797-baby-tv.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="105-baby-tv",Baby TV
+http://localhost:8888/sweet/797.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDKQOIAK/981-jimjam.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="137-jim-jam",JimJam
+http://localhost:8888/sweet/981.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDLAOIAK/982-minimax.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="57-minimax",MiniMax
+http://localhost:8888/sweet/982.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCSQMIAK/805-national-geographic-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="232-national-geographic-hd",National Geographic
+http://localhost:8888/sweet/805.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCSAMIAK/804-national-geographic-wild-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="106-national-geographic-wild",National Geographic Wild
+http://localhost:8888/sweet/804.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDMASIAK/1240-animal-planet-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="28-animalplanet",Animal Planet
+http://localhost:8888/sweet/1240.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDOQSIAK/1245-discovery-channel-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="15-discovery",Discovery Channel
+http://localhost:8888/sweet/1245.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDHAOIAK/974-spektrum-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="7-spektrum",Spektrum
+http://localhost:8888/sweet/974.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDIQOIAK/977-spektrum-home.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="77-spektrum-home",Spektrum Home
+http://localhost:8888/sweet/977.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDMQSIAK/1241-discovery-science-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="92-discovery-science",Discovery Science
+http://localhost:8888/sweet/1241.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDIQSIAK/1233-tlc-balkans-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="549-tlc",TLC Balkans
+http://localhost:8888/sweet/1233.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDGQSIAK/1229-dtx.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1129-dtx",DTX
+http://localhost:8888/sweet/1229.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDJASIAK/1234-id-xtra-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="223-investigation-discovery",ID Xtra
+http://localhost:8888/sweet/1234.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDNQSIAK/1243-travel-channel-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="104-travel-channel",Travel channel
+http://localhost:8888/sweet/1243.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDJQSIAK/1235-hgtv.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="15322-hgtv",HGTV
+http://localhost:8888/sweet/1235.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDOASIAK/1244-food-network-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1039-food-network-hd",Food Network
+http://localhost:8888/sweet/1244.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDHQOIAK/975-paprika-tv.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="62-paprika",Paprika TV
+http://localhost:8888/sweet/975.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDIAOIAK/976-cbs-reality.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="32-cbs-reality",CBS Reality
+http://localhost:8888/sweet/976.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDJAOIAK/978-viasat-explore-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="69-viasat-explorer",Viasat Explore
+http://localhost:8888/sweet/978.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDJQOIAK/979-viasat-history-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="70-viasat-history",Viasat History
+http://localhost:8888/sweet/979.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDKAOIAK/980-viasat-nature-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="249-viasat-nature",Viasat Nature
+http://localhost:8888/sweet/980.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDUAMIAK/872-history-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="202-history-channel",History
+http://localhost:8888/sweet/872.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDTQMIAK/871-crime-and-investigation.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="832-crime-and-investigation",Crime and Investigation
+http://localhost:8888/sweet/871.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD2AMIAK/884-fishing-hunting.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="207-the-fishing-and-hunting",Fishing&Hunting
+http://localhost:8888/sweet/884.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDFQOIAK/971-amc-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="82-amc",AMC
+http://localhost:8888/sweet/971.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCTQMIAK/807-axn.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="55-axn",AXN
+http://localhost:8888/sweet/807.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCUAMIAK/808-axn-black.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="125-axn-black",AXN Black
+http://localhost:8888/sweet/808.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCUQMIAK/809-axn-white.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="126-axn-white",AXN White
+http://localhost:8888/sweet/809.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDGAOIAK/972-epic-drama-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1209-epic-drama",Epic Drama
+http://localhost:8888/sweet/972.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC6AOIAK/956-film-europe-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="570-film-europe",Film Europe
+http://localhost:8888/sweet/956.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC6QOIAK/957-film-europe-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1341-film-europe-+",Film Europe+
+http://localhost:8888/sweet/957.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDGQOIAK/973-film-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="68-film+",Film +
+http://localhost:8888/sweet/973.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDEQOIAK/969-joj-cinema-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1023-joj-cinema",JOJ Cinema
+http://localhost:8888/sweet/969.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDUQMIAK/873-joj-family-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1141-joj-family",JOJ Family
+http://localhost:8888/sweet/873.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCTQOIAK/935-cs-film.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1149-cs-film",CS Film
+http://localhost:8888/sweet/935.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCUAOIAK/936-cs-horror.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="713-cs-horror",CS Horror
+http://localhost:8888/sweet/936.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDEAOIAK/968-cs-mystery.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="717-cs-mystery",CS Mystery
+http://localhost:8888/sweet/968.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCAQOIAK/897-cs-history.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1187-cs-history",CS History
+http://localhost:8888/sweet/897.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC7QOIAK/959-mnam-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1012-mnam-tv",Mňam
+http://localhost:8888/sweet/959.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC7AOIAK/958-mnau-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1148-mnau-tv",Mňau
+http://localhost:8888/sweet/958.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDAAOIAK/960-hobby-tv-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1213-hobby-tv",Hobby TV
+http://localhost:8888/sweet/960.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDEAMIAK/840-ocko-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="53-ocko",Ocko
+http://localhost:8888/sweet/840.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDEQMIAK/841-ocko-star-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="736-ocko-star",Ocko Star
+http://localhost:8888/sweet/841.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDDQMIAK/839-ocko-expres-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="831-ocko-expres",Ocko Expres
+http://localhost:8888/sweet/839.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDDAMIAK/838-ocko-black-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1242-ocko-black",Ocko Black
+http://localhost:8888/sweet/838.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCOQSIAK/1181-tv-rebel.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="879-rebel",TV Rebel
+http://localhost:8888/sweet/1181.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCJAOIAK/914-slager-muzika-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1198-slagr-muzika",Šláger Muzika
+http://localhost:8888/sweet/914.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCJQOIAK/915-slager-original-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="684-slagr-original",Šláger Originál
+http://localhost:8888/sweet/915.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCKAOIAK/916-slager-premium-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1367-slagr-premium",Šláger Premium
+http://localhost:8888/sweet/916.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCRAMIAK/802-iconcerts.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="543-iconcerts",iConcerts
+http://localhost:8888/sweet/802.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCRQMIAK/803-mezzo-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="43-mezzo",Mezzo
+http://localhost:8888/sweet/803.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD5QMIAK/891-deluxe-music.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="584-deluxe-music",Deluxe Music
+http://localhost:8888/sweet/891.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDXAMIAK/878-tv-folklorika.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1309-folklorika",TV Folklorika
+http://localhost:8888/sweet/878.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD3AKIAK/758-ta3-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="42-ta3",TA3
+http://localhost:8888/sweet/758.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDAAMIAK/832-ct1-jm.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="2-ct1",ČT1 JM
+http://localhost:8888/sweet/832.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC6AMIAK/828-ct1-sm.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="2-ct1",ČT1 SM
+http://localhost:8888/sweet/828.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCQQMIAK/801-euronews.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="647-euronews",Euronews
+http://localhost:8888/sweet/801.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDAQMIAK/833-tvp-world.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",TVP World
+http://localhost:8888/sweet/833.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC6ASIAK/1212-bbc-world-news.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="190-bbc-world-news",BBC World News
+http://localhost:8888/sweet/1212.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD6AEIAK/380-france-24-english.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="145-france24-en",France 24  English
+http://localhost:8888/sweet/380.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDDQKIAK/711-france-24-arabic.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="145-france24-en",France 24 Arabic
+http://localhost:8888/sweet/711.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC6QKIAK/701-trt-world-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1336-trt-world",TRT World
+http://localhost:8888/sweet/701.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCPASIAK/1182-relax-tv.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="716-relax",Relax TV
+http://localhost:8888/sweet/1182.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDYQMIAK/881-rtl-television.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="21-rtl",RTL Television
+http://localhost:8888/sweet/881.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDXQMIAK/879-rtl2.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="22-rtl2",RTL2
+http://localhost:8888/sweet/879.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDWQMIAK/877-vox.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="25-vox",VOX
+http://localhost:8888/sweet/877.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDWAKIAK/748-jednotka-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="10-stv1",Jednotka
+http://localhost:8888/sweet/748.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDVQKIAK/747-dvojka-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="11-stv2",Dvojka
+http://localhost:8888/sweet/747.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BC3AMIAK/822-sport.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1512-rtvs-sport",:Šport
+http://localhost:8888/sweet/822.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD3QKIAK/759-24-rtvs.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1324-rtvs-24",:24 (RTVS)
+http://localhost:8888/sweet/759.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDGAQIAK/1100-bnt4-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",BNT4
+http://localhost:8888/sweet/1100.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BDTAEIAK/358-aquarium-4k.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Aquarium 4K
+http://localhost:8888/sweet/358.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCEAIIAK/520-fireplace-4k.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}",Fireplace 4K
+http://localhost:8888/sweet/520.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD6AMIAK/892-extazy-4k.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="15299-extasy-4k-platinum",Extasy 4K
+http://localhost:8888/sweet/892.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BD6QKIAK/765-hustler.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="63-hustler-tv",Hustler
+http://localhost:8888/sweet/765.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCTAMIAK/806-purebabes-tv-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="1517-babes-tv",PureBabes TV
+http://localhost:8888/sweet/806.m3u8
+#EXTINF:-1 provider="Sweet TV" tvg-logo="http://static.sweet.tv/images/cache/channel_icons/BCPAMIAK/798-brazzers-hd.png" catchup="append" catchup-source="?utc={utc}&utcend={utcend}" tvg-id="185-brazzers-tv-europe",Brazzers
+http://localhost:8888/sweet/798.m3u8
