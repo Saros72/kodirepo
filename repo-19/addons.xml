@@ -359,4 +359,28 @@ O2TV, T-mobile TV GO, SledovaniTV.cz, PODA.tv, Telly, 4NET.TV, Kuki TV, Magio GO
             </assets>
         </extension>
     </addon>
+    <addon id="service.ngrok" name="Ngrok" version="1.0.0" provider-name="Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0"/>
+            <import addon="script.module.requests" />
+        </requires>
+        <extension point="xbmc.service" library="service.py">
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <platform>linux</platform>
+            <summary lang="cs_CS">Ngrok tunel pro Linux OS</summary>
+            <summary lang="en_GB">Ngrok Tunnel for Linux OS</summary>
+            <summary lang="en_US">Ngrok Tunnel for Linux OS</summary>
+            <description lang="cs_CS">Ngrok je nástroj, který umožňuje vytvořit zabezpečený tunel z veřejné URL k lokálnímu serveru na vašem stroji. Můžete tak k vašemu localhostu přistupovat odkudkoliv.</description>
+            <description lang="en_GB">Ngrok is a tool that allows you to create a secure tunnel from a public URL to a local server on your machine.  You can thus access your localhost from anywhere.</description>
+            <description lang="en_US">Ngrok is a tool that allows you to create a secure tunnel from a public URL to a local server on your machine.  You can thus access your localhost from anywhere.</description>
+            <website>https://ngrok.com/</website>
+            <news>v1.0.0 (6.1.2023)
+- první vydání
+            </news>
+            <assets>
+		    	        <icon>icon.png</icon>
+            </assets>
+        </extension>
+    </addon>
 </addons>
