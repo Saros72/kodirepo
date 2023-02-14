@@ -90,7 +90,7 @@ provider-name="Sároš">
         </extension>
     </addon>
     <addon id="plugin.video.prehrajto"
-version="1.6.0"
+version="1.7.0"
 name="Přehraj.to"
 provider-name="Sároš">
         <requires>
