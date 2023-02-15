@@ -333,7 +333,7 @@ provider-name="Sároš">
             </assets>
         </extension>
     </addon>
-    <addon id="service.iptv.web.server" name="IPTV Web Server" version="1.18.0" provider-name="Sároš">
+    <addon id="service.iptv.web.server" name="IPTV Web Server" version="1.19.0" provider-name="Sároš">
         <requires>
             <import addon="xbmc.python" version="3.0.0"/>
             <import addon="script.module.requests" />
