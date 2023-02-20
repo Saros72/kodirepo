@@ -333,7 +333,7 @@ provider-name="Sároš">
             </assets>
         </extension>
     </addon>
-    <addon id="service.iptv.web.server" name="IPTV Web Server" version="1.19.0" provider-name="Sároš">
+    <addon id="service.iptv.web.server" name="IPTV Web Server" version="1.20.0" provider-name="Sároš">
         <requires>
             <import addon="xbmc.python" version="3.0.0"/>
             <import addon="script.module.requests" />
@@ -352,7 +352,7 @@ provider-name="Sároš">
             <description lang="cs_CS">Tento doplněk vám pomocí webového serveru zpřístupní cestu k vaším streamům v rámci lokální sítě.
 
 Podporované poskytovatelé internetové televize:
-O2TV, T-mobile TV GO, SledovaniTV.cz, PODA.tv, Telly, 4NET.TV, Kuki TV, Magio GO, SledovanieTV.sk, REBIT.tv, Orange TV, Sweet TV, Touch TV, O2 TV SK, Antik TV
+O2TV, T-mobile TV GO, SledovaniTV.cz, PODA.tv, Telly, 4NET.TV, Kuki TV, Magio GO, SledovanieTV.sk, REBIT.tv, Orange TV, Sweet TV, Touch TV, O2 TV SK, Antik TV, Lepší TV, iVysílání ČT
             </description>
             <assets>
 		    	        <icon>icon.png</icon>
