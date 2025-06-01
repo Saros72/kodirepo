@@ -381,4 +381,22 @@ O2TV, T-mobile TV GO, SledovaniTV.cz, PODA.tv, Telly, 4NET.TV, Kuki TV, Magio GO
             </assets>
         </extension>
     </addon>
+    <addon id="plugin.video.hellspy"
+version="1.0.0"
+name="Hellspy"
+provider-name="Sároš">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0" />
+            <import addon="script.module.requests" />
+            <import addon="script.module.routing" />
+        </requires>
+        <extension point="xbmc.python.pluginsource" library="main.py">
+            <provides>video</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <assets>
+                <icon>icon.png</icon>
+            </assets>
+        </extension>
+    </addon>
 </addons>
