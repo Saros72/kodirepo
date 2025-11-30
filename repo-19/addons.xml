@@ -382,7 +382,7 @@ O2TV, T-mobile TV GO, SledovaniTV.cz, PODA.tv, Telly, 4NET.TV, Kuki TV, Magio GO
         </extension>
     </addon>
     <addon id="plugin.video.hellspy"
-version="1.1.0"
+version="1.2.0"
 name="Hellspy"
 provider-name="Sároš">
         <requires>
